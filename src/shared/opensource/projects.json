@@ -1,0 +1,82 @@
+{
+  "data":[
+    {
+      "id":"MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name":"Language Confidence",
+      "createdAt":"",
+      "url":"https://languageconfidence.ai",
+      "description":"A system for providing API services platform as third-party with AI scoring test for speaking. Using Nextjs & Nodejs & GCS",
+      "isFork":false,
+      "languages":[
+        {
+          "name":"Python",
+          "iconifyClass":"logos-python"
+        }
+      ]
+    },
+    {
+      "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name":"PTE Magic",
+      "createdAt":"",
+      "url":"https://ptemagicpractice.com/platform/auth/login",
+      "description":"A project is about an English practice platform with NLP integration. Using Nextjs, SpringBoot, RESTAPI, AWS, Google Cloud, Google NLP, Nginx, Stripe, Paypal,(Wordpress)",
+      "isFork":false,
+      "languages":[
+        {
+          "name":"",
+          "iconifyClass":""
+        }
+      ]
+    },
+    {
+      "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name":"Nauvus",
+      "createdAt":"",
+      "url":"https://www.nauvus.com/",
+      "description":"This is an Iot project to support traffic transportation. Combining both hardware and software development of React, backend system combined of Flask library Python & Golang",
+      "isFork":false,
+      "languages":[
+        {
+          "name":"HTML",
+          "iconifyClass":"logos-html-5"
+        },
+        {
+          "name":"CSS",
+          "iconifyClass":"logos-css-3"
+        },
+        {
+          "name":"JavaScript",
+          "iconifyClass":"logos-javascript"
+        }
+      ]
+    },
+    {
+      "id":"MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name":"TYMLEZ",
+      "createdAt":"",
+      "url":"https://tymlez.com/",
+      "description":"An IOT Platform provides companies with a secure, scalable, & sustainable solution to report about forecast weather,energy like emission, generation, environment status, natural phenomenon",
+      "isFork":false,
+      "languages":[
+        {
+          "name":"Python",
+          "iconifyClass":"logos-python"
+        }
+      ]
+    },
+    {
+      "id":"MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name":"react-nextjs-record",
+      "createdAt":"",
+      "url":"https://www.npmjs.com/package/react-nextjs-record",
+      "description":"This one is my personal product to create a dependency supporting record audio, overcome errors in recording of nextjs framework that other packages doesn't support. 900+ users",
+      "isFork":false,
+      "languages":[
+        {
+          "name":"Python",
+          "iconifyClass":"logos-python"
+        }
+      ]
+    }
+  ]
+}
